@@ -45,34 +45,9 @@ We're framework-agnostic in client work (WordPress, Shopify, React and plain HTM
 
 | Project | What it is |
 | --- | --- |
-| [**Better Days Towing**](https://github.com/Potomac-Solutions/better-days-towing) | A one-page site for a 24/7 Western Maryland towing company, built so a stranded driver can call in one tap. |
+| [**Better Days Towing**](https://betterdaystowing.com) | A one-page site for a 24/7 Western Maryland towing company, built so a stranded driver can call in one tap. |
 | [**Garrett County Adventures**](https://garrettcountyadventures.com) | A trip-planning site with local guides, an interactive map, trail data and browser-local GPX analysis (Rust/WASM). |
-| [**Nu Finish Collision Center**](https://github.com/jayanti-neu/nu-finish-site) | A collision-repair site for Oakland, MD, opening January 1, 2027. |
-
-## Writing
-
-We teach what we build. Mikey writes at **[Journey to Code](https://journeytocode.io)** about JavaScript, Web Components, Git, Rust and WebAssembly, and application architecture.
-
-**Featured series**
-
-- [**Commit to Success: Mastering Git**](https://journeytocode.io/series/learn-git-from-basics-to-advanced): moving beyond basic commands to master version control, branches, merging and real-world collaboration.
-- [**Journey to Web Components**](https://journeytocode.io/series/web-components-fundamentals-to-advanced): reusable UI without heavy frameworks, using Custom Elements, Shadow DOM and native browser APIs.
-- [**Mastering the Fetch API & Browser Storage**](https://journeytocode.io/series/mastering-fetch-api-browser-storage): network requests, IndexedDB, the Cache API and resilient offline-first design.
-- [**Mastering the Web Audio API**](https://journeytocode.io/series/complete-web-audio-api-tutorial): creative coding, spatial audio, synthesis and processing in the browser.
-- [**Coding Patterns Demystified**](https://journeytocode.io/coding-patterns-demystified): a deep dive into Model-View-Controller with shipping code.
-
-**Recent articles**
-
-<sub>Synced automatically from journeytocode.io by a GitHub Action.</sub>
-
-<!-- BLOG-POST-LIST:START -->
-- [One Message Is Not a Conversation](https://journeytocode.io/one-message-is-not-a-conversation/) — Keep a Rust TCP client and server talking until quit, using loop, break, continue and the zero-byte read that means the...
-- [The Input That Never Got Submitted](https://journeytocode.io/a-custom-input-that-joins-the-form/) — Build a custom form field the browser actually submits, resets and blocks on bad input, using formAssociated and Element...
-- [A Server With Nobody to Talk To](https://journeytocode.io/a-server-with-nobody-to-talk-to/) — Build a Rust TCP server and client, send one welcome message across localhost and let Result and the question-mark opera...
-- [The File That Exists Twice](https://journeytocode.io/the-file-that-exists-twice/) — Our practicum team never fixed a merge conflict that kept coming back. The cause was one file with two names in Git. See...
-- [The Tutorial Is Not the Game.](https://journeytocode.io/the-tutorial-is-not-the-game/) — Turn a finished Rust tutorial into a welcoming open-source project, then take one small contribution from idea to pull r...<!-- BLOG-POST-LIST:END -->
-
-[Read more at journeytocode.io →](https://journeytocode.io)
+| [**Nu Finish Collision Center**](https://nu-finish.com) | A collision-repair site for Oakland, MD, opening January 1, 2027. |
 
 ---
 
