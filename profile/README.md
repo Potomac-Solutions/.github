@@ -58,7 +58,6 @@ We're framework-agnostic in client work (WordPress, Shopify, React and plain HTM
 | [**Zubra**](https://github.com/zubra-js/zubra) | A Rust/WASM compiler for web components. Write them like HTML and get server-rendered output that works in plain HTML, React, Vue, Svelte and Angular. |
 | [**Zubra UI**](https://github.com/zubra-js/zubra-ui) | 96 accessible components you copy into a project and own. |
 | [**open.blog**](https://github.com/journey-to-code-org/open.blog) | An open-source blogging platform. It runs our own blog, [Notes from the river](https://potomac.solutions/notes/). |
-| [**kit**](https://github.com/Potomac-Solutions/kit) | Shared server modules for our platforms, built on Zubra. |
 | [**potomac-hq**](https://github.com/Potomac-Solutions/potomac-hq) | The software we run our own business on. |
 
 ## Demo apps
